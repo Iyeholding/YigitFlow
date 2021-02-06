@@ -4,7 +4,7 @@ YigitFlow is a libary that grows when you install.
 
 ## Installation
 
-```cmd
+```powershell
 pip install yigitflow
 ```
 
