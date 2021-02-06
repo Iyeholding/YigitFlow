@@ -4,7 +4,7 @@ YigitFlow is a libary that grows when you install.
 
 ## Installation
 
-```terminal
+```cmd
 pip install yigitflow
 ```
 
